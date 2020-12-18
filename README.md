@@ -12,5 +12,5 @@ Parts Needed:
 | Screws (M3x8 mm):  | https://www.digikey.ca/en/products/detail/b-f-fastener-supply/MPMS-003-0008-PH/274954  |
 | Bumpons:   | https://www.digikey.ca/en/products/detail/b-f-fastener-supply/MPMS-003-0008-PH/274954  |
 
-You can go ahead and get one of each file in the dxf foldercut from a service of your choice (SendCutSend etc.)
+You can go ahead and get one of each file in the dxf folder cut from a service of your choice (SendCutSend etc.)
 Enjoy!!!
