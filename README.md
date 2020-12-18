@@ -1,6 +1,9 @@
 # Filo60 Keyboard
-Unfortunately, neither me or ApexKeyboards have to time to work on this anymore. So here it is!! Open Source.
- 
+
+![alt text](https://github.com/SharmaUday1999/Filo60-Keyboard/blob/main/renders/Exploded.jpg)
+
+Unfortunately, neither me or ApexKeyboards have to time to work on this anymore :( So here it is!! Open Source.
+
 Parts Needed:
 | Part  | Link |
 | ------------- | ------------- |
